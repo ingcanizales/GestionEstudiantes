@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EstudiantesInfraestructure/1.0.0": {
+        "dependencies": {
+          "EstudiantesCore": "1.0.0"
+        },
+        "runtime": {
+          "EstudiantesInfraestructure.dll": {}
+        }
+      },
+      "EstudiantesCore/1.0.0": {
+        "runtime": {
+          "EstudiantesCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstudiantesInfraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstudiantesCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

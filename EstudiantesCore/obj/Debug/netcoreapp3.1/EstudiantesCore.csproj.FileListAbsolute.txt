@@ -1,0 +1,10 @@
+C:\Users\ingca\source\repos\EstudiantesCore\bin\Debug\netcoreapp3.1\EstudiantesCore.deps.json
+C:\Users\ingca\source\repos\EstudiantesCore\bin\Debug\netcoreapp3.1\EstudiantesCore.dll
+C:\Users\ingca\source\repos\EstudiantesCore\bin\Debug\netcoreapp3.1\EstudiantesCore.pdb
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.csproj.AssemblyReference.cache
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.AssemblyInfoInputs.cache
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.AssemblyInfo.cs
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.csproj.CoreCompileInputs.cache
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.dll
+C:\Users\ingca\source\repos\EstudiantesCore\obj\Debug\netcoreapp3.1\EstudiantesCore.pdb

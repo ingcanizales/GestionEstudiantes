@@ -1,0 +1,13 @@
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\bin\Debug\netcoreapp3.1\EstudiantesInfraestructure.deps.json
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\bin\Debug\netcoreapp3.1\EstudiantesInfraestructure.dll
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\bin\Debug\netcoreapp3.1\EstudiantesInfraestructure.pdb
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\bin\Debug\netcoreapp3.1\EstudiantesCore.dll
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\bin\Debug\netcoreapp3.1\EstudiantesCore.pdb
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.csproj.AssemblyReference.cache
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.AssemblyInfoInputs.cache
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.AssemblyInfo.cs
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.csproj.CopyComplete
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.dll
+C:\Users\ingca\source\repos\EstudiantesInfraestructure\obj\Debug\netcoreapp3.1\EstudiantesInfraestructure.pdb
